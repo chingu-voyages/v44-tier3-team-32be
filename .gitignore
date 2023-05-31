@@ -1,0 +1,5 @@
+*.log
+*.txt
+node_modules
+src/config.js
+node_modules/
